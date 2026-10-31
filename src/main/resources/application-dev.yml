@@ -42,8 +42,8 @@ spring:
 #app configurations
 app:
   rag:
-    chunk-size: 600
-    chunk-overlap: 100
+    chunk-size: 700
+#    chunk-overlap: 100
     top-k: 5
     similarity: 0.0
 
